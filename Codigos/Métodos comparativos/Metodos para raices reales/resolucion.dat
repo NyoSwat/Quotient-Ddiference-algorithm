@@ -1,0 +1,15 @@
+ RESOLUCION MEDIANTE EL METODO DE BISECCION 
+
+
+ ------------------------------------------------------------------
+ Iteración:            1
+Se analiza intervalo: [            1.0000000 ,            3.0000000 ]
+El error en x es:            1.0000000
+El error en y es:            0.0000000
+
+ A pasara a ser:    2.0000000000000000     
+ ------------------------------------------------------------------
+ ------------------------------------------------------------------
+La raiz encontrada es:            2.5000000
+El error en x es:            0.5000000
+El error en y es:           -0.8750000

@@ -1,0 +1,13 @@
+Instrucciones de uso del programa para el metodo QD
+
+- Compilar archivo AlgoritmoQdGrupo8.f90
+- Ingresar en el archivo coeficientes.txt 
+    -- grado del polinomio
+    -- coeficientes de grado menor a grado mayor
+    -- uno por linea
+- En caso de presesncia coeficiente nulo realizar traslacion sobre la indeterminada.
+- Tras ejecutar, se muestran raices por pantalla
+- Las raices quedan almacenadas en raicesreales.dat y raicesComplejas.dat
+- script.p ejecutara el grafico del polinomio en gnuplot
+- Las iteraciones del metodo quedaran almacenadas en Tabla.txt
+- Es posible editar la tolerancia y la cantidad maxima de iteraciones del algoritmo dentro del codigo, en las lineas 46 y 47 de AlgoritmoQdGrupo8.f90
